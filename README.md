@@ -10,7 +10,6 @@ Rapido, a prominent consulting firm with over 500 employees, faces a high turnov
 
 ## Tools & Technology
 - **Data Analysis Tools:** Excel, SQL, Python
-- **Predictive Modeling:** Machine learning algorithms for turnover prediction
 - **Visualization Tools:** Power BI for interactive dashboards
 - **HR Management Systems:** Employee engagement surveys and feedback collection tools
 
@@ -40,9 +39,8 @@ The project follows a comprehensive, data-driven approach to identify turnover p
 ## Conclusion
 The implementation of the proposed retention strategies is expected to significantly reduce turnover, enhance employee engagement, and improve operational continuity at Rapido. With mentorship programs, clear career paths, flexible work policies, and strong knowledge transfer practices, the company will foster a more supportive and productive work culture, which will also positively impact client satisfaction and business growth.
 
-By addressing the root causes of turnover, this project lays the foundation for long-term talent retention and organizational stability.
 
-## Portfolio & LinkedIn
+## Portfolio & Linkedin
 For more details on my work and other projects, visit my portfolio and LinkedIn:
 
 - [Portfolio - Kunal Malviya](https://peerlist.io/kunalmalviya06)
